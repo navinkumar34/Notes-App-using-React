@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,SAAY,CACZ,QACF,CAEA,GACE,mCACF","file":"main.ddb1a5b5.chunk.css","sourcesContent":["body {\r\n  padding: 0px;\r\n  margin: 0px;\r\n}\r\n\r\nh5 {\r\n  font-family: courier, arial, helvetica;\r\n}\r\n"]}

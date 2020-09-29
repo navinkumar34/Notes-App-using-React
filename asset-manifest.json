@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Notes-App-using-React/static/css/main.ddb1a5b5.chunk.css",
+    "main.js": "/Notes-App-using-React/static/js/main.bcf9a700.chunk.js",
+    "main.js.map": "/Notes-App-using-React/static/js/main.bcf9a700.chunk.js.map",
+    "runtime~main.js": "/Notes-App-using-React/static/js/runtime~main.d658ee9b.js",
+    "runtime~main.js.map": "/Notes-App-using-React/static/js/runtime~main.d658ee9b.js.map",
+    "static/css/2.2c60062d.chunk.css": "/Notes-App-using-React/static/css/2.2c60062d.chunk.css",
+    "static/js/2.7838e5cd.chunk.js": "/Notes-App-using-React/static/js/2.7838e5cd.chunk.js",
+    "static/js/2.7838e5cd.chunk.js.map": "/Notes-App-using-React/static/js/2.7838e5cd.chunk.js.map",
+    "index.html": "/Notes-App-using-React/index.html",
+    "precache-manifest.1bf103129c3fa69e38eaf743d338f974.js": "/Notes-App-using-React/precache-manifest.1bf103129c3fa69e38eaf743d338f974.js",
+    "service-worker.js": "/Notes-App-using-React/service-worker.js",
+    "static/css/2.2c60062d.chunk.css.map": "/Notes-App-using-React/static/css/2.2c60062d.chunk.css.map",
+    "static/css/main.ddb1a5b5.chunk.css.map": "/Notes-App-using-React/static/css/main.ddb1a5b5.chunk.css.map"
+  }
+}
